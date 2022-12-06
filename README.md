@@ -1,1 +1,1 @@
-# Course Recommendation for Chinese international students, <br>a WeChat miniprogram
+# Course Recommendation for Chinese international students<br>(WeChat miniprogram)
