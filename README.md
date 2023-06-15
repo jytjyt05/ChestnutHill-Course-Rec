@@ -1,1 +1,1 @@
-# Course Recommendation Mini-program<br>(WeChat miniprogram)
+# Chestnut Hill Course Recommendation<br>(a WeChat miniprogram)
